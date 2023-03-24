@@ -1,0 +1,14 @@
+body{
+    background-color: lightgreen;
+    margin-left: 10%;
+    margin-right: 10%;
+    padding: 5px;
+    font-family: 'Courier New', Courier, monospace;
+}
+
+p, h2{
+    font-size: 12px;
+}
+h1{
+    font-size: 10px;
+}
